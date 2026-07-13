@@ -1,0 +1,6 @@
+{
+  "name": "StudyBridge",
+  "description": "An AI-powered study companion for students in India, offering Smart Notes, Quiz Generation, Doubt Chat, and Study Plans in English, Hindi, and Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
